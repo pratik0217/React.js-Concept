@@ -1,4 +1,5 @@
 import './App.css'
+import cards from './components/cards'
 
 function App() {
   return (
@@ -34,6 +35,8 @@ function App() {
           </div>
         </div>
       </nav>
+
+      <cards/>
     </>
   )
 }
