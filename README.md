@@ -40,6 +40,8 @@ Syntax - <Navbar title="CompanyName" contact="Contact"/>
 - state :-
 - useState is react hook that let's add a state variable to your component.
 - syntax : (syntax is there on notes book and check out).
+![Screenshot 2025-06-30 235054](https://github.com/user-attachments/assets/c18e763b-f717-488d-8df7-91d9f9f297b9)
 - The convention is to name state variable like [something, something] using array distructuring.
+![Screenshot 2025-06-30 235310](https://github.com/user-attachments/assets/c85ee9f7-865e-4feb-aa21-b787b64fce6c)
 - setState function do not have a return value.
 - NOTE - import React, {useState} from 'react' on the top of react code.
