@@ -35,3 +35,8 @@ Syntax - <Navbar title="CompanyName" contact="Contact"/>
 
 # Protypes 
 - Remaining this point 
+
+# Understanding State & handling Event
+- state :-
+- useState is react hook that let's add a state variable to your component.
+- syntax : (syntax is there on notes book and check out).
