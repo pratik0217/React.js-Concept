@@ -18,3 +18,20 @@
 # Adding Bootstrap in React
 - Copy bootstrap CSS & JS file then paste the index.html file.
 - Boostrap component paste in React function inside.
+
+# Understanding props & ProTypes
+- Props (properties) :- properties pass the value as agrument/attribute.
+- Export default (functionName).
+- export use pass the value to another file.
+- another file export using import.
+- Props throgh define the variable.value of properties.
+Syntax - <Navbar title="CompanyName" contact="Contact"/>
+
+ example - function Navbar(change) {
+             <nav>
+             <a className="navbar-brand" href="#">{change.title}</a>
+             </nav>
+}
+
+# Protypes 
+- Remaining this point 
