@@ -1,12 +1,15 @@
-# React + Vite
+# JSX & Component in React
+React is built using JSX & Components. Let’s break them down and understand how they work!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# What is JSX
+JSX (JavaScript XML) is a special syntax in React that looks like HTML but works inside JavaScript. It makes UI code cleaner, readable, and more efficient.
+<img width="358" height="141" alt="image" src="https://github.com/user-attachments/assets/5109e937-d70a-4f31-9a5f-86647c01edc9" />
 
-Currently, two official plugins are available:
+### 🎯 Why JSX?
+✅ **Looks Like HTML** – But it's inside JavaScript! <br>
+✅ **Faster Rendering** – React optimizes it behind the scenes. <br>
+✅ **Safer** – Prevents XSS attacks by escaping values.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛠 Example of JSX
+<img width="663" height="77" alt="Screenshot 2025-07-19 204204" src="https://github.com/user-attachments/assets/01a09367-3be4-42d7-9069-e2b48603c059" />
+🔹 This looks like HTML, but it’s actually JavaScript!
