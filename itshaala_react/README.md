@@ -1,19 +1,3 @@
-# JSX & Component in React
-React is built using JSX & Components. Let’s break them down and understand how they work!
-
-# What is JSX
-JSX (JavaScript XML) is a special syntax in React that looks like HTML but works inside JavaScript. It makes UI code cleaner, readable, and more efficient.
-<img width="358" height="141" alt="image" src="https://github.com/user-attachments/assets/5109e937-d70a-4f31-9a5f-86647c01edc9" />
-
-### 🎯 Why JSX?
-✅ **Looks Like HTML** – But it's inside JavaScript! <br>
-✅ **Faster Rendering** – React optimizes it behind the scenes. <br>
-✅ **Safer** – Prevents XSS attacks by escaping values.
-
-### 🛠 Example of JSX
-<img width="663" height="77" alt="Screenshot 2025-07-19 204204" src="https://github.com/user-attachments/assets/01a09367-3be4-42d7-9069-e2b48603c059" />
-🔹 This looks like HTML, but it’s actually JavaScript!
-
 # React.js App code flow
 - First of all, run the HTML file code then script file load the main.jsx file.
 - HTML file have only two element first element div#root and 2nd element script.
@@ -23,6 +7,46 @@ JSX (JavaScript XML) is a special syntax in React that looks like HTML but works
 - package.json is most important file. If package.json file are not existed then project are not properly run.
 - package-lock.json similer to the package.json. if changes in package.json then automatically changing in package-lock.json.
 - gitigonre this is use for important file not push on github.
+
+# JSX & Component in React
+React is built using JSX & Components. Let’s break them down and understand how they work!
+
+# What is JSX
+- JSX stand for JavaScript Syntax Extension or JavaScript XML.
+- JSX allows to the HTML tags written in JavaScript.
+<img width="358" height="141" alt="image" src="https://github.com/user-attachments/assets/5109e937-d70a-4f31-9a5f-86647c01edc9" />
+
+- JSX (JavaScript XML) is a special syntax in React that looks like HTML but works inside JavaScript. It makes UI code cleaner, readable, and more efficient.
+
+# Without using JSX in React.
+Step 1
+
+<img width="791" height="63" alt="Screenshot 2025-07-20 183731" src="https://github.com/user-attachments/assets/93e39417-9e7d-4915-90c3-63161aafc739" />
+
+Step 2
+
+<img width="874" height="131" alt="Screenshot 2025-07-20 183658" src="https://github.com/user-attachments/assets/0c61a0eb-6968-4951-ba0d-d2edf95da50b" />
+
+Final code - 
+<img width="1229" height="671" alt="Screenshot 2025-07-20 183758" src="https://github.com/user-attachments/assets/0ddf398f-3d78-46dc-be51-1498da0e2616" />
+
+### 🎯 Why JSX?
+✅ **Looks Like HTML** – But it's inside JavaScript! <br>
+✅ **Faster Rendering** – React optimizes it behind the scenes. <br>
+✅ **Safer** – Prevents XSS attacks by escaping values.
+
+### 🛠 Example of JSX
+<img width="663" height="77" alt="Screenshot 2025-07-19 204204" src="https://github.com/user-attachments/assets/01a09367-3be4-42d7-9069-e2b48603c059" />
+
+🔹 This looks like HTML, but it’s actually JavaScript!
+
+# JSX with Curly Braces
+<img width="1324" height="624" alt="Screenshot 2025-07-20 190019" src="https://github.com/user-attachments/assets/0a388941-e2ce-4027-97bf-495d80d4326f" />
+
+# Interview Question
+Q What is JSX ?
+
+Ans - JSX stand for JavaScript Syntax Extension and also Know as JavaScript XML
 
 # React Component
 <img width="1211" height="551" alt="Screenshot 2025-07-20 155651" src="https://github.com/user-attachments/assets/b23fe2d8-0e96-4677-aee7-ff23107b3bfe" />
