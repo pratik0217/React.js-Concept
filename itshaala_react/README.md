@@ -117,3 +117,31 @@ Interview Question :-
 - How to install latest version of react in project ?
 - Why updating react version in project ?
 - What is mean of "react": 18.9.1 point ?
+
+# State in React.JS
+<img width="1458" height="648" alt="Screenshot 2025-07-20 235134" src="https://github.com/user-attachments/assets/b2a9835c-bd21-43be-8eae-457e4aa67c34" />
+
+
+Why state requried :-  
+- If change the value and re-render on web browser(UI) they use State.
+- Can the use variable through value change but chenging value not re-render in Web browser.
+
+What is State :- 
+- State is container to store data like variable.
+- this is mutable and dynamic.
+- We have to import it when we want to use it.
+- It re-render component automatically so that data can visible on UI.
+
+What is State :- 
+- Hooks are the special feature of functional component.
+- Hooks let you see different react feature from your components.
+               - States
+               - Life cycle methods
+               - Side effects etc.
+
+  How to check hook :-
+  - If you see use in starting of the word in react then called as Hooks
+  Example - {useState, useEffect, useContext, etc.}
+
+Syntax State :- 
+<img width="1538" height="841" alt="Screenshot 2025-07-21 010606" src="https://github.com/user-attachments/assets/453f1753-873a-4cd7-87d7-93f811ee8e90" />
