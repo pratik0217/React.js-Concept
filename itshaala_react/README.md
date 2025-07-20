@@ -91,3 +91,29 @@ Q) Why automatically calling function ?
 
 Ans - Because if calling function using Braces as JS format {functionName()} in react then calling automatically function.
     - Solution is always remember if calling function in react then use function defination {functionName} for function calling in React.
+
+# Upgrade React version
+<img width="1279" height="496" alt="Screenshot 2025-07-20 230119" src="https://github.com/user-attachments/assets/40b1a7f5-ee23-4879-b804-ec4ccf663d04" />
+
+Check current version in React
+- Click on the package.json then searching dependencies they have version of react and also react-dom version.
+- Dependencies have a current version of react & react-dom.
+<img width="650" height="76" alt="Screenshot 2025-07-20 232335" src="https://github.com/user-attachments/assets/f8ff1488-8595-43cc-b636-a8793994ed06" />
+this img show the current version of react and react-dom.
+
+Update React version in project :- 
+- first check current file of project then open terimal and type npm install react@rc
+<img width="1408" height="52" alt="Screenshot 2025-07-20 232410" src="https://github.com/user-attachments/assets/791ddcbb-917d-4a99-b49b-e664b6b3314e" />
+
+- Similar process of installing react-dom.
+<img width="1485" height="34" alt="Screenshot 2025-07-20 232446" src="https://github.com/user-attachments/assets/f3cef07f-54c6-42a7-bd48-ee8bd99c7ea4" />
+
+- Then update to latest version of react & react-dom in package.json (dependencies) and also automatically updated package-lock.json file.
+<img width="571" height="127" alt="Screenshot 2025-07-20 232426" src="https://github.com/user-attachments/assets/6274d0c9-6444-4291-9966-9ef83efc0680" />
+
+Interview Question :- 
+- What's latest version of react ?
+- How to check version of react in project ?
+- How to install latest version of react in project ?
+- Why updating react version in project ?
+- What is mean of "react": 18.9.1 point ?
