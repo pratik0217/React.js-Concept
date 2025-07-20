@@ -72,3 +72,22 @@ import - Recive the file of sending exported file.
 
 Note - Not required only use component are export. they are also exporting variable.
      - Exported Component/Variable declare {...}
+
+# Click Event and Function call
+<img width="1222" height="588" alt="Screenshot 2025-07-20 215640" src="https://github.com/user-attachments/assets/81c8a306-6bad-4798-94fc-fcbde441277f" />
+
+- Event always write in camelCase format for React function.
+- Event not requried write in camelCase for JavaScript(JS) function.
+<img width="805" height="241" alt="Screenshot 2025-07-20 225011" src="https://github.com/user-attachments/assets/265e2050-3c95-4232-a58e-d8c64f7a0adf" />
+
+- function call {functionName()} as this way then showing error and automatically run in React but function call using function defination {functionName} this way then successfully run.
+Call Arrow function/function passing parameter :-
+- Syntax :-
+ <img width="936" height="120" alt="Screenshot 2025-07-20 224930" src="https://github.com/user-attachments/assets/afe6dfb7-0bc4-464b-b9cc-6eb43c6c0797" />
+
+Interview Question - 
+
+Q) Why automatically calling function ?
+
+Ans - Because if calling function using Braces as JS format {functionName()} in react then calling automatically function.
+    - Solution is always remember if calling function in react then use function defination {functionName} for function calling in React.
