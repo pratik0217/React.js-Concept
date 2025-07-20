@@ -4,6 +4,7 @@ import {MainSummary} from './component/MainSummary' // export component.
 import { createElement } from 'react' // without using JSX
 import { Excerise } from './ReactExcerise'
 import JSXCurlyBraces from './JSXCurlyBraces'
+import State from './reactTopics/state'
 
 
 function App() {
@@ -23,6 +24,8 @@ function App() {
         <br /><br /><br />
         <Excerise/>
       </main>
+
+      <State/>
     </div>
   )
 }
