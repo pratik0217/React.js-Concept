@@ -1,4 +1,4 @@
-# React.js App code flow
+<img width="842" height="366" alt="Screenshot 2025-07-21 194539" src="https://github.com/user-attachments/assets/f04229fd-b049-4afc-8f53-7685714aca23" /># React.js App code flow
 - First of all, run the HTML file code then script file load the main.jsx file.
 - HTML file have only two element first element div#root and 2nd element script.
 - All project code render in div#root.
@@ -167,3 +167,35 @@ Syntax -
 
 Final UI :- 
 <img width="1066" height="153" alt="Screenshot 2025-07-21 112946" src="https://github.com/user-attachments/assets/7678fb73-683f-4d68-8ba3-e6c2a0f022b7" />
+
+# Props in React
+<img width="842" height="366" alt="Screenshot 2025-07-21 194539" src="https://github.com/user-attachments/assets/bf409b1c-c66a-4f3d-b7fb-317bae4bb6eb" />
+
+What is props ?
+- props use for one component data passing/transfer to another component.
+- Note - props are not a parameter but uses same of parameter likes.
+
+Syntax - 
+<img width="1086" height="125" alt="Screenshot 2025-07-21 235952" src="https://github.com/user-attachments/assets/93c95134-372d-4773-a55f-c7e1b5988f20" />
+or
+<img width="1100" height="124" alt="Screenshot 2025-07-22 000006" src="https://github.com/user-attachments/assets/85d14936-eca2-44e6-bd56-b4491fd5e06c" />
+
+Note : 
+- Both Syntax valid for declaring props (use props).
+- PropsName not compalsory for declaring props|| declare on project related name.
+
+<img width="760" height="300" alt="Screenshot 2025-07-21 231125" src="https://github.com/user-attachments/assets/2bcef2ee-3266-4355-a1dc-a5057379d0bb" />
+
+Default Props :- 
+<img width="685" height="218" alt="Screenshot 2025-07-22 000348" src="https://github.com/user-attachments/assets/52100abe-dab9-47df-94ed-03685fed2d0a" />
+
+Pass JSX with props & Change style with props :- 
+
+Step 1 
+<img width="1376" height="429" alt="Screenshot 2025-07-22 000526" src="https://github.com/user-attachments/assets/962cdac9-f1c8-45cb-b0bb-806359507bb7" />
+
+Step 2
+<img width="1334" height="395" alt="Screenshot 2025-07-22 000328" src="https://github.com/user-attachments/assets/ec0fbf56-19e6-4259-8783-34d9d62a85b6" />
+
+Final UI 
+<img width="712" height="465" alt="Screenshot 2025-07-22 000715" src="https://github.com/user-attachments/assets/5e608163-3cc0-4eca-8109-140df963d043" />
