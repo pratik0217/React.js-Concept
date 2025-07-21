@@ -145,3 +145,25 @@ What is State :-
 
 Syntax State :- 
 <img width="1538" height="841" alt="Screenshot 2025-07-21 010606" src="https://github.com/user-attachments/assets/453f1753-873a-4cd7-87d7-93f811ee8e90" />
+
+Interview Question :- 
+- What is the difference between variable & State ?
+- What us syntax if state ?
+- How to use double state ?
+- Can you set variable working in function ?
+
+# Toggle or Hide and Show in React
+<img width="1605" height="610" alt="Screenshot 2025-07-21 094859" src="https://github.com/user-attachments/assets/a1abe5c3-696a-48a2-ba90-45f7c0cc5851" />
+
+Syntax-
+<img width="1233" height="583" alt="Screenshot 2025-07-21 104917" src="https://github.com/user-attachments/assets/5964573b-5afa-4abc-89f2-12d066c6237c" />
+
+Final UI (Web Browser) :- 
+<img width="1051" height="152" alt="Screenshot 2025-07-21 105203" src="https://github.com/user-attachments/assets/b27f4072-df0a-4cf9-809d-ca6456b2a5b3" />
+
+# Multiple conditional in React 
+Syntax - 
+<img width="1194" height="812" alt="Screenshot 2025-07-21 112410" src="https://github.com/user-attachments/assets/e901aee5-5c7e-4db7-9e60-bccf39e4ce88" />
+
+Final UI :- 
+<img width="1066" height="153" alt="Screenshot 2025-07-21 112946" src="https://github.com/user-attachments/assets/7678fb73-683f-4d68-8ba3-e6c2a0f022b7" />
