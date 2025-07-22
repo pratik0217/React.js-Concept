@@ -242,3 +242,11 @@ Q. How to add & delete on array ?
 Q. What is filter() and Why this use in program ?
 
 # Handle Radio buttom & dropdown
+<img width="786" height="371" alt="Screenshot 2025-07-22 193253" src="https://github.com/user-attachments/assets/4d637ff0-d54d-4567-bfdd-3795e9b6bcd5" />
+
+Code -
+<img width="1827" height="831" alt="Screenshot 2025-07-22 203525" src="https://github.com/user-attachments/assets/7bd85a41-bcb6-44c4-8ea7-2f93e3f76bee" />
+<img width="1816" height="627" alt="Screenshot 2025-07-22 203545" src="https://github.com/user-attachments/assets/125f66cd-48f4-485a-ad84-832e30729583" />
+
+# Loop in JSX with Map Function
+<img width="603" height="289" alt="Screenshot 2025-07-22 203906" src="https://github.com/user-attachments/assets/4ca1aa09-979a-44e6-865c-b721f9f46ef9" />
