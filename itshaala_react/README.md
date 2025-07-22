@@ -215,3 +215,18 @@ Q. How to get value of input tag ?
 Q. How to get value of input clear using btn ? 
 
 # Controlled Component :
+What is Controlled component ?
+- A controlled component is a form field whose input field value is controlled by react's State.
+
+How it works ?
+- Store input field value in State.
+- Use change handler with input field.
+- value attribute attached with State.
+
+Benefits of controlled component - 
+- Single source of truth
+- Validation and Manipulation before submit
+- Dynamic updates values.
+
+Syntax -
+<img width="1665" height="851" alt="Screenshot 2025-07-22 173811" src="https://github.com/user-attachments/assets/b405a80c-00db-43da-8a4c-6b6c67f32a2b" />
