@@ -265,3 +265,8 @@ Example with print the table reference data of object.
 
 Result - 
 <img width="692" height="223" alt="Screenshot 2025-07-22 230653" src="https://github.com/user-attachments/assets/c76ff3f6-7e9a-4c6a-a799-63a37bff9697" />
+
+# Array Nested looping with component 
+<img width="748" height="361" alt="Screenshot 2025-07-22 235323" src="https://github.com/user-attachments/assets/f68d4259-3c6f-4dfc-921d-cc426bee540d" />
+
+Code - file name :- ArrayNestedLoop.jsx
