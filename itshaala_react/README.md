@@ -1,4 +1,5 @@
-<img width="842" height="366" alt="Screenshot 2025-07-21 194539" src="https://github.com/user-attachments/assets/f04229fd-b049-4afc-8f53-7685714aca23" /># React.js App code flow
+<img width="842" height="366" alt="Screenshot 2025-07-21 194539" src="https://github.com/user-attachments/assets/f04229fd-b049-4afc-8f53-7685714aca23" />
+# React.js App code flow
 - First of all, run the HTML file code then script file load the main.jsx file.
 - HTML file have only two element first element div#root and 2nd element script.
 - All project code render in div#root.
@@ -230,3 +231,14 @@ Benefits of controlled component -
 
 Syntax -
 <img width="1665" height="851" alt="Screenshot 2025-07-22 173811" src="https://github.com/user-attachments/assets/b405a80c-00db-43da-8a4c-6b6c67f32a2b" />
+
+# Handle checkbox 
+<img width="1545" height="837" alt="Screenshot 2025-07-22 193426" src="https://github.com/user-attachments/assets/6a885863-b691-4ad2-ae67-78fd1a49218d" />
+<img width="1544" height="799" alt="Screenshot 2025-07-22 193503" src="https://github.com/user-attachments/assets/0e199926-62b9-4e21-a054-99d41cd11218" />
+<img width="1548" height="804" alt="Screenshot 2025-07-22 193552" src="https://github.com/user-attachments/assets/841aca7b-13aa-4fc4-8dd8-77cb533a2801" />
+
+Interview Question 
+Q. How to add & delete on array ?
+Q. What is filter() and Why this use in program ?
+
+# Handle Radio buttom & dropdown
