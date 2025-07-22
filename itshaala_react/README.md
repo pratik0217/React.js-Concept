@@ -250,3 +250,18 @@ Code -
 
 # Loop in JSX with Map Function
 <img width="603" height="289" alt="Screenshot 2025-07-22 203906" src="https://github.com/user-attachments/assets/4ca1aa09-979a-44e6-865c-b721f9f46ef9" />
+
+- Loop use only before return keyword then loop is valid and also working properly loop.
+- You want use loop in JSX component then use Map function on JSX.
+
+Syntax - 
+<img width="845" height="316" alt="Screenshot 2025-07-22 230108" src="https://github.com/user-attachments/assets/07b9cfa7-b8f3-4132-ad97-42fa8c3f5aa7" />
+
+Example with print the table reference data of object.
+<img width="1535" height="834" alt="Screenshot 2025-07-22 230313" src="https://github.com/user-attachments/assets/7c15d8b9-80ee-4f3b-bf0b-98d49e042217" />
+<img width="1541" height="775" alt="Screenshot 2025-07-22 230347" src="https://github.com/user-attachments/assets/571106bf-fa17-4b8e-99eb-792723f84680" />
+<img width="1542" height="801" alt="Screenshot 2025-07-22 230415" src="https://github.com/user-attachments/assets/1a45c0e4-7a12-495b-a679-26f0c9cdf0ae" />
+<img width="1548" height="751" alt="Screenshot 2025-07-22 230507" src="https://github.com/user-attachments/assets/b158e2ce-c58a-47f0-8a10-201c8dc71429" />
+
+Result - 
+<img width="692" height="223" alt="Screenshot 2025-07-22 230653" src="https://github.com/user-attachments/assets/c76ff3f6-7e9a-4c6a-a799-63a37bff9697" />
