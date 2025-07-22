@@ -199,3 +199,19 @@ Step 2
 
 Final UI 
 <img width="712" height="465" alt="Screenshot 2025-07-22 000715" src="https://github.com/user-attachments/assets/5e608163-3cc0-4eca-8109-140df963d043" />
+
+# Get Input field Value
+<img width="808" height="325" alt="Screenshot 2025-07-22 094515" src="https://github.com/user-attachments/assets/4e7a2efa-019b-4606-8c14-6204c99a5baa" />
+
+- If interview ask the how to get value of input tags then use {onChange} event and also using state.
+Syntax -
+<img width="1489" height="471" alt="Screenshot 2025-07-22 103418" src="https://github.com/user-attachments/assets/29a297bf-f012-4738-a33a-5cfaa9088dc8" />
+
+Final UI - 
+https://github.com/user-attachments/assets/f803d906-81b3-47ff-8f5e-2e21e8167568
+
+Interview Question - 
+Q. How to get value of input tag ?
+Q. How to get value of input clear using btn ? 
+
+# Controlled Component :
