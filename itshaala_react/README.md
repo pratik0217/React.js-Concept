@@ -1,4 +1,3 @@
-<img width="842" height="366" alt="Screenshot 2025-07-21 194539" src="https://github.com/user-attachments/assets/f04229fd-b049-4afc-8f53-7685714aca23" />
 # React.js App code flow
 - First of all, run the HTML file code then script file load the main.jsx file.
 - HTML file have only two element first element div#root and 2nd element script.
@@ -270,3 +269,11 @@ Result -
 <img width="748" height="361" alt="Screenshot 2025-07-22 235323" src="https://github.com/user-attachments/assets/f68d4259-3c6f-4dfc-921d-cc426bee540d" />
 
 Code - file name :- ArrayNestedLoop.jsx
+
+# useEffect() Hooks 
+<img width="773" height="345" alt="Screenshot 2025-07-23 123334" src="https://github.com/user-attachments/assets/f33ba0ab-d5fe-49ca-91f2-aecebc1184df" />
+<img width="814" height="268" alt="Screenshot 2025-07-26 121854" src="https://github.com/user-attachments/assets/1878cd96-8f13-429a-975b-8d86d6b1aa85" />
+
+Handling dependecy :- 
+<img width="724" height="436" alt="Screenshot 2025-07-26 123939" src="https://github.com/user-attachments/assets/c1835664-e795-480d-95df-3a70b06dc17d" />
+
