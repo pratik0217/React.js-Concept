@@ -277,3 +277,15 @@ Code - file name :- ArrayNestedLoop.jsx
 Handling dependecy :- 
 <img width="724" height="436" alt="Screenshot 2025-07-26 123939" src="https://github.com/user-attachments/assets/c1835664-e795-480d-95df-3a70b06dc17d" />
 
+Handle Props side effect with useEffect in Component & Component life cycle in React
+<img width="796" height="316" alt="Screenshot 2025-07-26 130951" src="https://github.com/user-attachments/assets/4acf923c-1246-4385-a659-6ec9da1ca568" />
+
+<img width="794" height="319" alt="Screenshot 2025-07-26 152907" src="https://github.com/user-attachments/assets/13837e6d-c9e3-4d39-972f-d8a74eaf2f70" />
+
+<img width="738" height="376" alt="Screenshot 2025-07-26 153303" src="https://github.com/user-attachments/assets/9b15e902-2a1e-4436-acf8-c226a27643de" />
+
+<img width="869" height="396" alt="Screenshot 2025-07-26 153337" src="https://github.com/user-attachments/assets/cc23596b-bb0d-4f09-8d15-ff6c0acb17c0" />
+
+<img width="1120" height="725" alt="Screenshot 2025-07-26 155721" src="https://github.com/user-attachments/assets/b12fad14-c64e-488a-a438-8a8b81518306" />
+
+<img width="1163" height="827" alt="Screenshot 2025-07-26 155853" src="https://github.com/user-attachments/assets/320d1f77-5e82-4ab1-92df-9716b9b56f1e" />
