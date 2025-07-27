@@ -311,3 +311,19 @@ What is uncontrolled component ?
 
 Code - 
 <img width="1546" height="778" alt="Screenshot 2025-07-27 212839" src="https://github.com/user-attachments/assets/4dd06117-18aa-4c93-a8bf-601b9d2932c8" />
+
+# Pass function in Component as Props 
+<img width="874" height="283" alt="Screenshot 2025-07-27 212756" src="https://github.com/user-attachments/assets/225c4fd7-0943-457c-9625-c43e7fd03be1" />
+
+- Create function and also this function use many component then created function declare in the parent component for usable in chlid component.
+- Create function pass using state to another child component.
+
+code - 
+step 1 - Delcare(create) function in parent component
+<img width="633" height="118" alt="Screenshot 2025-07-27 234755" src="https://github.com/user-attachments/assets/17236aae-921f-4f74-a274-8aaddf69df49" />
+
+step 2 - create child component.
+<img width="1139" height="290" alt="Screenshot 2025-07-27 234842" src="https://github.com/user-attachments/assets/29350d0a-4713-4120-bfb5-819bf7f13def" />
+
+step 3 - child component delcare in parent component for using function state through.
+<img width="977" height="144" alt="Screenshot 2025-07-27 234827" src="https://github.com/user-attachments/assets/b3ebe628-303b-4107-88bd-86bdab5987a9" />
