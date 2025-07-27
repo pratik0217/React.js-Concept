@@ -289,3 +289,12 @@ Handle Props side effect with useEffect in Component & Component life cycle in R
 <img width="1120" height="725" alt="Screenshot 2025-07-26 155721" src="https://github.com/user-attachments/assets/b12fad14-c64e-488a-a438-8a8b81518306" />
 
 <img width="1163" height="827" alt="Screenshot 2025-07-26 155853" src="https://github.com/user-attachments/assets/320d1f77-5e82-4ab1-92df-9716b9b56f1e" />
+
+
+# useRef hook in React.js 
+<img width="804" height="290" alt="Screenshot 2025-07-27 194843" src="https://github.com/user-attachments/assets/4965a17c-d9a2-46bf-bca7-10fb6eb28406" />
+
+- control input field and also HTML tags with useRef.
+
+Code :- 
+<img width="1415" height="855" alt="Screenshot 2025-07-27 205258" src="https://github.com/user-attachments/assets/59db96b9-0288-43e5-a35b-c5d976d8ddd2" />
