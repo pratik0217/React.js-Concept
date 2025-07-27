@@ -327,3 +327,23 @@ step 2 - create child component.
 
 step 3 - child component delcare in parent component for using function state through.
 <img width="977" height="144" alt="Screenshot 2025-07-27 234827" src="https://github.com/user-attachments/assets/b3ebe628-303b-4107-88bd-86bdab5987a9" />
+
+<hr>
+<strong> <em> Forward ref(useRef) in React </em> </strong>
+<hr>
+<img width="836" height="265" alt="Screenshot 2025-07-28 005634" src="https://github.com/user-attachments/assets/d9954569-b742-465a-acee-9dc19dac7779" />
+
+What is forward ref ?
+- Foreward ref and also Pass function in component as props both are same concept.
+
+Declare ref
+<img width="859" height="119" alt="Screenshot 2025-07-28 010342" src="https://github.com/user-attachments/assets/7b410d1b-ba78-4c14-81ea-f16ce0b1e5d8" />
+
+Implement ForwardRef before react 19 version
+<img width="1308" height="435" alt="Screenshot 2025-07-28 010257" src="https://github.com/user-attachments/assets/995876a6-d418-4e75-a25d-2fb870a19f3d" />
+
+Implement forwardRed in React 19
+<img width="722" height="322" alt="Screenshot 2025-07-28 010216" src="https://github.com/user-attachments/assets/c7f87520-bdd8-4d18-aff1-4e98f0edf8b1" />
+
+Parent component
+<img width="859" height="119" alt="Screenshot 2025-07-28 010342" src="https://github.com/user-attachments/assets/06b28b29-2781-4ef4-adaa-efa3cec0834e" />
