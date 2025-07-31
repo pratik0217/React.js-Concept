@@ -401,3 +401,14 @@ Code -
 Result - 
 
 <img width="1454" height="223" alt="Screenshot 2025-07-31 135639" src="https://github.com/user-attachments/assets/e218cdbe-cc66-417e-9eff-c9eec6067f12" />
+
+<hr>
+<strong> <em> Updating Array in State </em> </strong>
+<hr>
+<img width="832" height="303" alt="Screenshot 2025-07-31 140518" src="https://github.com/user-attachments/assets/446baceb-2de5-47b0-99f7-b2fdfe299137" />
+
+- Updating arrays value using state and updating person is user.
+
+Code - 
+
+<img width="1801" height="813" alt="Screenshot 2025-07-31 142908" src="https://github.com/user-attachments/assets/7e58cea9-e3d5-4028-85fb-722a194f2b03" />
