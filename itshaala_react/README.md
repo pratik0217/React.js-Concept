@@ -1,4 +1,4 @@
-# React.js App code flow
+<img width="838" height="238" alt="Screenshot 2025-07-31 212707" src="https://github.com/user-attachments/assets/6db894b2-72fe-4266-81c6-4d95bf2ebc0a" /># React.js App code flow
 - First of all, run the HTML file code then script file load the main.jsx file.
 - HTML file have only two element first element div#root and 2nd element script.
 - All project code render in div#root.
@@ -434,3 +434,17 @@ Code -
 - Fragment ingonre extra html tag (div).
 - Fragment always declare in parent component.
 - Fragment ( <>...</> ).
+
+# Roles for React.js Hooks 
+<img width="838" height="238" alt="Screenshot 2025-07-31 212707" src="https://github.com/user-attachments/assets/48843df9-c16e-4e3d-a877-6d09f178f102" />
+<img width="849" height="384" alt="Screenshot 2025-07-31 213156" src="https://github.com/user-attachments/assets/f35e5bb2-ef88-47eb-b426-6753ff49f60f" />
+<img width="825" height="324" alt="Screenshot 2025-07-31 213220" src="https://github.com/user-attachments/assets/44075a12-c139-4659-84dc-134de0a5d051" />
+
+Where use Hooks
+- Call Hooks from React function component.
+- Call Hooks from custom Hooks.
+- Function name & hook always inisitional different name.
+
+<img width="579" height="173" alt="Screenshot 2025-07-31 225509" src="https://github.com/user-attachments/assets/7a9fa333-cf9e-4c7d-9453-bdad6fa3d4a5" />
+
+# Context API in React.js
