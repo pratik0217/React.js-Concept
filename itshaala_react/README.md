@@ -375,3 +375,14 @@ React version 19 -
 Interview Question - 
 Q0 what is difference between version 18 & 19 for useTransition ?
 
+<hr>
+<strong> <em> Lifting State up in React </em> </strong>
+<hr>
+<img width="804" height="267" alt="Screenshot 2025-07-28 165021" src="https://github.com/user-attachments/assets/03b7af5f-cd2f-453e-a4f7-9dc2d93c566c" />
+<img width="716" height="399" alt="Screenshot 2025-07-28 165140" src="https://github.com/user-attachments/assets/8f955c30-4bae-4bfa-920e-7f139fceb155" />
+
+- Lifting state up use in some data share one component to another component using state it called ligting state up.
+
+Code - Apna College 
+- LiftingStateUp_AddUser.jsx
+- LiftingStateUp_DisplayUser.jsx
