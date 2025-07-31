@@ -386,3 +386,18 @@ Q0 what is difference between version 18 & 19 for useTransition ?
 Code - Apna College 
 - LiftingStateUp_AddUser.jsx
 - LiftingStateUp_DisplayUser.jsx
+
+<hr>
+<strong> <em> Updating Object in State </em> </strong>
+<hr>
+<img width="830" height="288" alt="Screenshot 2025-07-31 132254" src="https://github.com/user-attachments/assets/5d978c76-1dcb-4630-9453-2ca7921f9ddb" />
+
+Code - 
+
+<img width="1806" height="802" alt="Screenshot 2025-07-31 135349" src="https://github.com/user-attachments/assets/de98bf24-0b50-443b-a6d8-98566e7b3189" />
+<img width="1810" height="798" alt="Screenshot 2025-07-31 135420" src="https://github.com/user-attachments/assets/047a47db-4ab1-4b5e-88b4-16840e169a45" />
+<img width="1795" height="238" alt="Screenshot 2025-07-31 135504" src="https://github.com/user-attachments/assets/c2951a08-bbd4-4005-9837-419a7455f816" />
+
+Result - 
+
+<img width="1454" height="223" alt="Screenshot 2025-07-31 135639" src="https://github.com/user-attachments/assets/e218cdbe-cc66-417e-9eff-c9eec6067f12" />
