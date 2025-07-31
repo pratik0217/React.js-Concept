@@ -448,3 +448,21 @@ Where use Hooks
 <img width="579" height="173" alt="Screenshot 2025-07-31 225509" src="https://github.com/user-attachments/assets/7a9fa333-cf9e-4c7d-9453-bdad6fa3d4a5" />
 
 # Context API in React.js
+<img width="841" height="286" alt="Screenshot 2025-07-31 230600" src="https://github.com/user-attachments/assets/531b4b67-19ff-4088-8c4c-ae1f5b895f25" />
+<img width="1369" height="760" alt="Screenshot 2025-07-31 231228" src="https://github.com/user-attachments/assets/60065c89-00f8-45b8-8974-33b86587053f" />
+
+- Context API helps as some data share to multiple component without using props.
+- If you can use props for data sharing to multiple component it's work it but application performance are decreassing.
+- Using <storng>Context API</storage> then application performance increassing better of without using props.
+
+<img width="1427" height="436" alt="Screenshot 2025-07-31 232049" src="https://github.com/user-attachments/assets/902bfdb4-a3cc-463c-87ae-e539e7906a99" />
+
+code - ApnaCollege - MERN Web development/React.js-concept
+
+# Custom Hooks in React.js
+<img width="860" height="264" alt="Screenshot 2025-08-01 001629" src="https://github.com/user-attachments/assets/cb2fc669-2940-4096-8c8e-980742f74786" />
+
+- If create custom hooks in React they start with use prefix. (eg. useToggle() ).
+- Predefind hooks are there use in custom hooks its work it.
+
+# 
