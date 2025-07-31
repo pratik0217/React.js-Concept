@@ -466,3 +466,50 @@ code - ApnaCollege - MERN Web development/React.js-concept
 - Predefind hooks are there use in custom hooks its work it.
 
 # React Router 7 Setup :- 
+<img width="800" height="283" alt="Screenshot 2025-08-01 033024" src="https://github.com/user-attachments/assets/58e7fb12-bc18-4b8a-8ec3-e483d8077ec7" />
+
+# API
+<img width="733" height="230" alt="Screenshot 2025-08-01 020700" src="https://github.com/user-attachments/assets/e9601505-eb21-4a07-9017-364163db88a9" />
+
+What is API ?
+
+- Application Programming Interface (API).
+( API Work as two programming languagae between interface. )
+- We need data from DB(Database) when making project.
+- But JS can not connect with database.
+( JS, JS Library & framework not connected with database because, JS is Cline-Side-Scripting language work on web browsers. )
+- So we have API in other langugae as Java, Python, PHP or Node.js etc.
+( this language create API and fetch data, API make json data format because Database is Server-side (Java, Python, PHP or Node.js etc work on Server-side).
+
+<img width="1208" height="774" alt="Screenshot 2025-08-01 022544" src="https://github.com/user-attachments/assets/013b9a78-f517-4b29-b184-4bd47e31abd3" />
+
+Shared Data with API 
+- We need same data in multiple platform.
+- Like Web application, Mobile Application, Windos OS etc.
+- So we make API in one language.
+- And use same API with all platform.
+
+# Fetch Data from API with get method 
+<img width="797" height="281" alt="Screenshot 2025-08-01 022711" src="https://github.com/user-attachments/assets/3328f81d-39bb-422c-a95e-e32c98fe4bb6" />
+
+API Methods 
+- GET (get API data)
+- POST (Store data)
+- PUT/PATCH (Updating data)
+- DELETE (Deleting data)
+
+Test API 
+- POSTMAN
+- VS Code (Extension Thunder client)
+
+Integrate API & Display Data
+
+- Create function as getApiData().
+- function inside store API in url name variable.
+- Create let response name variable.
+- When calling API then use fetch method and return promise.
+- response data convert into json format (syntax - response = response.json() ) return promise
+- Call once time in Browser using useEffect().
+- get API data store in State.
+- And console.log(state) for checking API working properly.
+- API data render on UI using Map.
