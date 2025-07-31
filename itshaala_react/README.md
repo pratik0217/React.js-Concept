@@ -412,3 +412,25 @@ Result -
 Code - 
 
 <img width="1801" height="813" alt="Screenshot 2025-07-31 142908" src="https://github.com/user-attachments/assets/7e58cea9-e3d5-4028-85fb-722a194f2b03" />
+
+# useActionState Hook in React
+<img width="826" height="258" alt="Screenshot 2025-07-31 145345" src="https://github.com/user-attachments/assets/674d1a8f-94ec-4dc3-b2aa-b29f84d99c3b" />
+
+- Used to handle form in React.js
+- It Update state based on the result of a form action.
+
+# useId Hook in React
+<img width="804" height="250" alt="Screenshot 2025-07-31 201256" src="https://github.com/user-attachments/assets/f211c8af-22f4-4ee4-b88b-96d37ad0ce47" />
+
+- useId is react hook for generating unique IDs that can be passed to accessibility attribute.
+
+Code - 
+
+<img width="1511" height="714" alt="Screenshot 2025-07-31 204856" src="https://github.com/user-attachments/assets/c536e84d-87d5-448b-b93d-7f3ded7c9910" />
+
+# Fragment in React.js 
+<img width="782" height="257" alt="Screenshot 2025-07-31 204828" src="https://github.com/user-attachments/assets/e7d114dd-2c7f-4acc-a2ff-62b333303553" />
+
+- Fragment ingonre extra html tag (div).
+- Fragment always declare in parent component.
+- Fragment ( <>...</> ).
